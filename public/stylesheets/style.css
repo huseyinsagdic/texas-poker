@@ -23,14 +23,14 @@ padding-left:100px;
 color:red;
 }
 
-.top-wrapper {
+.top-wwrapper {
    width: 800px; 
 }
 
 #top-container {
  
    background-color: red;
-   border:1px solid yellow;
+   border:4px solid black;
    overflow: auto;
    width: 264px;
    margin: auto;  
@@ -61,11 +61,26 @@ color:red;
 #top-container {
  
    background-color: red;
-   border:1px solid yellow;
+   border:4px solid black;
    overflow: auto;
    width: 264px;
    margin: auto;  
      
+}
+.table{
+border:5px solid black;
+width:264px;
+height:200px;
+float:left; 
+margin:80px;
+ background-color:green;
+top:50px;
+right:20px;
+}
+.table 1{
+
+}
+
 }
 
 .player { 
@@ -85,3 +100,16 @@ color:red;
 .player .p2 {     
 }
 
+
+#center-container {
+ 
+   background-color: red;
+   border:4px solid black;
+   overflow: auto;
+   width: 700px;
+   margin: auto; 
+     
+}
+.player.3{
+
+}
