@@ -69,7 +69,7 @@ color:red;
 
 
 .top-wrapper {
-   width: 800px; 
+   width:1000px; 
 }
 
 
@@ -79,30 +79,67 @@ width:320px;
 height:200px;
 float:left;
 margin-top:50px;
-margin-left:80px;
-margin-right:80px;
+
+
 margin-bottom:80px;
-background-color:green;
+background-image:url('full-tilt-game-table.png');
 right:50px;
 }
 
 .table 1{
 
 }
+.rotate{
+-moz-transform:rotate(-180deg)
 
+}
 #center-container {
  
    background-color: red;
    border:4px solid black;
-   width: 750px;
-   margin: auto;
+   width: 850px;
+   margin-left:10px;
+   margin-right:10px;
    height:300px; 
      
 }
-.table-card-container {
-  margin-top:62px;
+.table-card-container{
+  margin-top:20%;
   overflow: auto;
 }
+
+.table-card-position{
+top:20%;
+margin-left:33%;
+}
+
+.table-card-position1{
+top:20%;
+margin-left:53%;
+}
+.table-card-container1 {
+  margin-top:0%;
+margin-left:0%;
+  overflow: auto;
+}
+.table-card-position3{
+top:0%;
+margin-left-10%;
+}
+
+.table-card-container2 {
+ top:0%;
+margin-left:-20%;
+  overflow: auto;
+}
+
+.table-card-position4{
+top:20%;
+margin-left:7%;
+}
+
+
+
 
 .table-card {
   float:left;
