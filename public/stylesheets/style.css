@@ -58,12 +58,12 @@ color:red;
 }
 
 .p3 {
-  margin-top:71px;
+  margin-top:85px;
   
 }
 
 .p4 {     
-  margin-top:71px;
+  margin-top:-103px;
   float:right;
 }
 
@@ -71,35 +71,44 @@ color:red;
 .top-wrapper {
    width:1000px; 
 }
+.box2{
+margin-left:45%;
+margin-top:0%;
+border:0px;
+}
 
-
+.box1{
+margin-left:-50%;
+margin-top:15%;
+border:0px;
+}
 .table{
 border:1px solid black;
 width:320px;
 height:200px;
 float:left;
-margin-top:50px;
+margin-top:-15%;
+background-image:url("http://media.intellipoker.com/images_content/articles/Education/EN/RTH-Pic1_ip2.png");
 
-
-margin-bottom:80px;
-background-image:url('full-tilt-game-table.png');
-right:50px;
+background-repeat:repeat-x;
+margin-left:15%;
+margin-bottom:-20%;
 }
 
 .table 1{
 
 }
 .rotate{
--moz-transform:rotate(-180deg)
+-moz-transform:rotate(90deg)
 
 }
 #center-container {
  
    background-color: red;
    border:4px solid black;
-   width: 850px;
-   margin-left:10px;
-   margin-right:10px;
+   width: 860px;
+ margin-left:5%;
+   right:10px;
    height:300px; 
      
 }
@@ -117,28 +126,32 @@ margin-left:33%;
 top:20%;
 margin-left:53%;
 }
-.table-card-container1 {
-  margin-top:0%;
+.table-card-container1{
+margin-top:0%;
 margin-left:0%;
   overflow: auto;
 }
 .table-card-position3{
-top:0%;
-margin-left-10%;
+top:20%;
+margin-left:40%;
 }
 
-.table-card-container2 {
- top:0%;
-margin-left:-20%;
-  overflow: auto;
-}
+
 
 .table-card-position4{
 top:20%;
-margin-left:7%;
+margin-left:65%;
 }
+.doublebox{
+margin-top:-20%;
+margin-left:0%;
 
-
+}
+.table-card1{
+float:left;
+margin-top:37%;
+padding-left:13px;
+}
 
 
 .table-card {
